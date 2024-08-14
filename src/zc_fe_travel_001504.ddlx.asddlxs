@@ -71,7 +71,7 @@ annotate view ZC_FE_Travel_001504 with
   @UI.lineItem: [{ position: 70 }]
   @UI.dataPoint: {
       qualifier: 'PriceData',
-      title: 'Total Price' }
+      title: 'TotalPrice' }
   TotalPrice;
   @UI.lineItem: [{ position: 80, criticality: 'OverallStatusCriticality' }]
   @UI.textArrangement: #TEXT_ONLY
